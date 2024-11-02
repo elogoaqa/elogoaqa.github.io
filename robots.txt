@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://elogoaqa.github.io/AtF/sitemap_index.txt
+Sitemap: https://elogoaqa.github.io/RcC/sitemap_index.txt
+Sitemap: https://elogoaqa.github.io/eLv/sitemap_index.txt
+Sitemap: https://elogoaqa.github.io/vxA/sitemap_index.txt
